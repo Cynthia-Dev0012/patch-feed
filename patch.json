@@ -4,7 +4,7 @@
     "id": "EH-Ashborn-0.0.1",
     "status": "live", 
     "target_utc": "2025-08-14T18:59:04-04:00",
-    "window_utc": { "start": "", "end": "" },
+    "window_utc": { "start": "2025-08-14T18:59:04-04:00", "end": "2025-08-14T18:59:04-04:00" },
     "message": "Prototype Live",
     "notes_url": "---"
   },
