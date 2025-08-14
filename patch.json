@@ -10,7 +10,6 @@
   },
   "controls": {
     "paused": false,
-    "force_released": false,
-    "min_client_poll_seconds": 300
+    "force_released": true
   }
 }
