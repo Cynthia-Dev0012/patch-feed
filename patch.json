@@ -3,7 +3,7 @@
   "patch": {
     "id": "EH-Ashborn-0.0.1",
     "status": "live", 
-    "target_utc": "",
+    "target_utc": "2025-08-14T18:59:04-04:00",
     "window_utc": { "start": "", "end": "" },
     "message": "Prototype Live",
     "notes_url": "---"
