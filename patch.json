@@ -10,6 +10,6 @@
   },
   "controls": {
     "paused": false,
-    "force_released": true
+    "force_released": false
   }
 }
